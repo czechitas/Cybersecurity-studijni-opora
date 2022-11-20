@@ -8,6 +8,7 @@ Jednotlivé kurzu najdeš na [našem webu](https://www.czechitas.cz/tema/kyberne
 
 * [Základy uživatelské bezpečnosti](zkl_uziv_bez/obsah.md)
 * [Bezpečnost koncových zařízení](bez_kon_zar/obsah.md)
+* [Úvod do kybernetické bezpečnosti](uvd_do_kyber_sct/obsah.md)
 
 ## Něco nefunguje?
 
