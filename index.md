@@ -11,4 +11,4 @@ Jednotlivé kurzu najdeš na [našem webu](https://www.czechitas.cz/tema/kyberne
 
 ## Něco nefunguje?
 
-Nerazila jsi na technickou nebo obsahovou chybu? Napiš technickému správci této stránky, který chybu opraví. 
+Nerazila jsi na technickou nebo obsahovou chybu? Napiš [technickému správci](mailto:michal.kucera@czechitas.cz) této stránky, který chybu opraví. 
