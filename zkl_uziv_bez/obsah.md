@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Rozcestník](README.md)
 * [Slovník](slovnik.md)
 * [Seznam zkratek](untitled.md)
 

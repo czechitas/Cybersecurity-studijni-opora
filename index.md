@@ -6,6 +6,7 @@ Jednotlivé kurzu najdeš na [našem webu](https://www.czechitas.cz/tema/kyberne
 
 ## Podklady ke kurzům
 
-* [Základy uživatelské bezpečnosti] (zkl_uziv_bez/obsah.md)
+* [Základy uživatelské bezpečnosti](zkl_uziv_bez/obsah.md)
+* [Bezpečnost koncových zařízení](bez_kon_zar/obsah.md)
 
 ## Něco nefunguje?
