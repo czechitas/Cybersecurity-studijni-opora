@@ -10,3 +10,5 @@ Jednotlivé kurzu najdeš na [našem webu](https://www.czechitas.cz/tema/kyberne
 * [Bezpečnost koncových zařízení](bez_kon_zar/obsah.md)
 
 ## Něco nefunguje?
+
+Nerazila jsi na technickou nebo obsahovou chybu? Napiš technickému správci této stránky, který chybu opraví. 

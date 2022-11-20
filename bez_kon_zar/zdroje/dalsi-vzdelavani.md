@@ -6,34 +6,20 @@ description: Odkazy
 
 ## Malware Analysis
 
-Vzorky malware včetně analýzy + walkthrough
+[Vzorky malware včetně analýzy + walkthrough](https://github.com/jstrosch/malware-samples)
 
-{% embed url="https://github.com/jstrosch/malware-samples" %}
-
-YouTube kanál 0xf0x (Neil Fox)
-
-{% embed url="https://www.youtube.com/c/0xf0x/videos" %}
+[YouTube kanál 0xf0x (Neil Fox)](https://www.youtube.com/c/0xf0x/videos)
 
 ## Penetration Testing
 
-Ethical Hackers Club YouTube kanál
+[Ethical Hackers Club YouTube kanál](https://www.youtube.com/c/EthicalHackersClub/videos)
 
-{% embed url="https://www.youtube.com/c/EthicalHackersClub/videos" %}
-
-SANS Offensive Operations, YouTube kanál
-
-{% embed url="https://www.youtube.com/c/SANSOffensiveOperations/videos" %}
+[SANS Offensive Operations, YouTube kanál](https://www.youtube.com/c/SANSOffensiveOperations/videos)
 
 ## DFIR
 
-YouTube kanál 13Cubed
+[YouTube kanál 13Cubed](https://www.youtube.com/c/13cubed/videos)
 
-{% embed url="https://www.youtube.com/c/13cubed/videos" %}
+[YT kanál Cover6Solutions](https://www.youtube.com/c/Cover6Solutions/videos)
 
-YT kanál Cover6Solutions
-
-{% embed url="https://www.youtube.com/c/Cover6Solutions/videos" %}
-
-CyberDefenders
-
-{% embed url="https://cyberdefenders.org/blueteam-ctf-challenges" %}
+[CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges)
