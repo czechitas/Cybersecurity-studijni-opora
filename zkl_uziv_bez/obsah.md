@@ -1,4 +1,4 @@
-# Table of contents
+# Obsah
 
 * [Slovník](slovnik.md)
 * [Seznam zkratek](untitled.md)
