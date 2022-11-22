@@ -1,1 +1,1 @@
-**Na obsahu se pracuje, brzy bude dostupný.**
+[Slovník](slovnik.md)
