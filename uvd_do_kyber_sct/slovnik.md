@@ -40,3 +40,17 @@
 * **NIST**, - "National Institute of Standards and Technology" - vydává standardy ohledně zabezpečení. Například NIST 800-63b řeší bezpečná hesla, NIST FIPS 140 - řeší fyzickou bezpečnost IT 
 * **SIEM**, "Security information and event management" - softwarové řešení, které firmě/organizaci pomáhá detekovat, analyzovat a reagovat na bezpečnostní hrozby 
 * **SOAR**, "Security orchestration and response" - softwarové řešení, které firmě/organizaci pomáhá automatizovat analýzu a reakce na bezpečnostní události
+* **EDR**, "Endpoint detection and response" - softwarové řešení, které slouží k monitorování pracovních stanic, serverů, atp.
+* **NTA**, "Network traffic analyzer" - softwarové řešení, které slouží k monitorování provozu na síti 
+* **RDP**, "Remote desktop protocol" - nástroj pro vzdálený přístup, zejména na pracovní stanice Windows
+* **SSH**, "Secure Shell" - nástroj pro vzdálený přístup do příkazové řádky, zejména na servery
+* **Virtualizace**, spouštění (typicky operačního systému) na virtuálním hardware (namísto skutečného)
+* **Sandboxing**, spouštění neznámého, možná i škodlivého kódu v bezpečném prostředí za účelem jeho studia
+* **CSIRT**, "Computer security incident response team", tým pověřený reakcí na bezpečnostní incidenty
+* **SOC**, "Security operations center", tým pověřený monitorováním bezpečnostních událostí a reakcí na incidenty 
+* **CVE**, "Common vulnerabilities and exposures", seznam veřejně známých zranitelností
+* **CWE**, "Common weakness enumeration", seznam typů zranitelností
+* **CVSS**, "Common vulnerability scoring system", metoda určování závažnosti zranitelností používaná v systému CVE
+* **MITRE ATT&CK**, katalog známých typů útoků, skupin útočníků a software
+* **OWASP**, "Open Web Application Security Project", organizace zabývající se popisem útoků na web, viz [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+* **IOC**, "Indicator of Compromise", údaj, který lze jednoduše vyhledat, např. IP adresa nebo hash souboru. Jeho nalezení obvykle potvrzuje výskyt nějakého útoku
