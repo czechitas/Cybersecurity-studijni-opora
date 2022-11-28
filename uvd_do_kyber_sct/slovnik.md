@@ -2,31 +2,29 @@
 
 * **Autorizace**, je proces povolující uživateli určité akce. Jinými slovy jsou to oprávnění, kterými uživatel disponuje.
 * **Autentizace**, je proces určující skutečnou identitu uživatele. Ověření, že uživatel je ten za koho se vydává a může: vstoupit, přihlásit se,...
-* **2FA**, two-factor authentication, dvoufázové ověření identity
+* **2FA**, two-factor authentication, dvoufázové ověření identity, např. heslo a jednorázový kód
 * **Botnet**, síť počítačů napadených malwarem
 * **Hash**, unikátní řetězec fixní délky. Vytvořen (jednosměrnou) matematickou funkcí.
 * **Phishing**, útok na uživatele s cílem získat citlivé údaje
 * **Ransomware**, vyděračský software, program. Zablokuje uřivateli systém nebo zašifruje data, následně od oběti požaduje výkupné.
 * **Šifrování**, proces transformace dat z čitelné do nečitelné (bez příslušného klíče) podoby.
-* **Symetrické šifrování**, používá pro zašifrování zprávy ten samý klíč jako k jejímu dešifrování. Typickým zástupcem je AES, Blowfish.
-* **Asymetrické šifrování**, používá veřejný (šifrování/ověření podpisu) a privátní klíč (dešifrování/podepisování). Typický zástupce je RSA nebo ECC
+* **Symetrické šifrování**, používá pro zašifrování zprávy ten samý klíč jako k jejímu dešifrování. Typickými zástupci jsou AES, Blowfish.
+* **Asymetrické šifrování**, používá veřejný (šifrování/ověření podpisu) a privátní klíč (dešifrování/podepisování). Typickými zástupci jsou RSA nebo ECC
 * **Token**, fyzické zařízení sloužící k ověření identity za účelem přístupu k zabezpečeným službám, často jako doplněk k heslu, další ověřovaný prvek
-* **Integrita**, (en. integrity) integrita dat - chceme jistotu, že nám naše data nikdo nemůže změnit bez našeho vědomí
+* **Integrita**, (en. integrity) integrita dat - chceme jistotu, že nám naše data nikdo nezměnil bez našeho vědomí
 * **Důvěryhodnost**, (en. confidentiality) - přenášená/uložená data nemůže číst nikdo cizí
-* **Dostupnost**, (en. availability) - řeší dostupnost poskytovaných služeb
+* **Dostupnost**, (en. availability) - poskytované služby jsou funkční
 * **Malware**, škodlivý software - obecný název pro viry, trojské koně, červy/worm atp.
-* **Hacker a jeho druhy**, původně označení zvídavého člověka, který si byl ochotný hrát s technikou a hledat použití pro které daná technika nebyla určena. V médiích často chybě používano jako označení pro kybernetického útočníka.
+* **Hacker a jeho druhy**, původně označení zvídavého člověka, který si byl ochotný hrát s technikou a hledat použití pro které daná technika nebyla určena. Dnes často používano jako označení pro kybernetického útočníka.
 * **CIA triáda**, zkratka pro Confidentiality, Integrity a Availability. Viz výše.
 * **Virus**, typ malware. Dle původního rozlišení se jedná o kus počítačového kódu, který se připisuje do již existujících programů
 * **boot-viry**, typ viru. Spouští se hned při zapnutí počítače. Velmi složitě se detekuje a odstraňuje.
 * **makro-viry**, typ viru. Vyskytuje se u dokumentů (např. doc) pro jeho spuštění je zapotřebí "povolit makra"
-* **trojské koně**, typ malware. Umožňuje útočníkům vzdálený přístup k nakaženému systému
-* **Ransomware**, typ malware. Jeho úkolem je zašifrovat data a vydírat postiženou osobu/firmu o výkupné za opětovné spřístupnění/dešifrování dat. 
+* **trojské koně**, typ malware. Umožňuje útočníkům vzdálený přístup k nakaženému systému 
 * **Wiper**, typ malware. Dříve pouze mazal data (bez požadavku o výkupné). Nověji je to typ ransomware, který sice žádá o výkupné i přesto, že data není možné dešifrovat ať už záměrně nebo chybnou implementací. 
-* **Keylogger**, typ malware. Jeho úkolem je zachytávat úhozy na klávesnici. Umožňuje odposlech zadávaného hesla.
-* **Phishing**, typ útoku. Snaží se vypadat legitimně a vylákat z uživatele například heslo ke svému účtu. Např. email: "Máte plnou mailovou schránku. Přihlašte se zde a odemkněte si zdarma větší kapacitu" 
+* **Keylogger**, typ malware. Jeho úkolem je zachytávat úhozy na klávesnici. Umožňuje odposlech citlivých údajů, např. zadávaného hesla.
 * **Insider**, typ útoku při kterém se použije (třeba za úplatu) zaměstnanec cílové firmy. Ten pak například spustí nějaký škodlivý kód. 
-* **Spam**, asi netřeba vysvětlovat. Nevyžádaná pošta.
+* **Spam**, nevyžádaná pošta.
 * **Hoax**, falešná poplašná zpráva. Často doprovázená dnes již zlidovělým "Sdílejte to než to smažou".
 * **Firewall**, HW nebo SW, který má za úkol řídit síťový provoz - zabraňuje nežádoucímu síťovému přístupu/provozu.
 * **Network Segmentation**, používaná technika na rozdělení počítačové sítě do menších podsítí. Při vhodném nastavení omezuje útočníkům přístup k ostatním strojům v síti.
@@ -36,8 +34,9 @@
 * **Rogue employee, disgruntled employee**, nespokojený zaměstnanec. Často využitý k útoku typu insider.
 * **Social engineer**, útočník zaměřující se na útoky vedené sociálním inženýrstvím, například phishing
 * **Internet stalker**, osoba, která někoho potají sleduje a vyhládává o něm informace, často právě nezákonými způsoby.
-* **Internet predator**, - těžko vysvětlit jednou větou. viz film V Síti nebo [Linka bezpeční](https://www.linkabezpeci.cz/-/internetovi-predatori-pohledem-linky-bezpeci)
+* **Internet predator**, - těžko vysvětlit jednou větou. viz film V Síti nebo [Linka bezpečí](https://www.linkabezpeci.cz/-/internetovi-predatori-pohledem-linky-bezpeci)
 * **APT**, - Advanced persistent threat. Skupiny útočníků, často státem přímo či nepřímo podporované. Známá je například ruská APT28 Fancy Bear
 * **OSINT**, - Open source intelligence - vyhledávání iformací a údajů na základě dat dostupných z veřejných zdrojů. 
 * **NIST**, - "National Institute of Standards and Technology" - vydává standardy ohledně zabezpečení. Například NIST 800-63b řeší bezpečná hesla, NIST FIPS 140 - řeší fyzickou bezpečnost IT 
-* **SIEM**, "Security information and event management" - softwarové řešení, které firmě/organizaci, pomáhá detekovat, analyzovat a reagovat na bezpečnostní hrozby 
+* **SIEM**, "Security information and event management" - softwarové řešení, které firmě/organizaci pomáhá detekovat, analyzovat a reagovat na bezpečnostní hrozby 
+* **SOAR**, "Security orchestration and response" - softwarové řešení, které firmě/organizaci pomáhá automatizovat analýzu a reakce na bezpečnostní události
